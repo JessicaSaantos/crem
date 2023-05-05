@@ -517,6 +517,7 @@ transform: translateY(100%);
 >>992
 >>580
 >>420
+>>280
 */
 @media (min-width: 1000px) {
     /* reusable classes */
@@ -649,6 +650,15 @@ transform: translateY(100%);
 @media (min-width: 420px) {
     #home video {
         width: 385px;
+    }
+}
+@media (min-width: 280px) {
+    #home video {
+        width: 250px;
+    }
+    #home .text {
+        margin-left: 0.2rem;
+        margin-right: 0.2rem;
     }
 }
 
