@@ -1,6 +1,7 @@
 /*=========     RESET ESPECIFICO  ================================*/
 a {
     text-decoration: none;
+    color: var(--text-color);
 }
 img {
     width: 80%;
