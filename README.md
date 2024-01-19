@@ -1,5 +1,7 @@
 # CREM
+## Projeto Voluntariado 
 
+One Page desenvolvida como base para divulgação do CREM. Esse site foi apenas um protótipo de desenvolvimento, do qual não foi dado continuidade! 
 
 Centro de Referência de Emancipação da Mulher!
 Com projetos que atendem á mulheres vítimas de violência.
